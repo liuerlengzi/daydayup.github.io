@@ -4,10 +4,9 @@ You can use the [editor on GitHub](https://github.com/liuerlengzi/daydayup.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 我是干嘛滴
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+可能是世界上想法最多，而又最无能的人，日常想做点事，但是实际上却有鲜有行动的人，我这么拉胯，靠每天麻醉自己度日
 ```markdown
 Syntax highlighted code block
 
