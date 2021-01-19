@@ -1,36 +1,18 @@
 ## 欢迎来到刘伟的异想世界
 
-You can use the [editor on GitHub](https://github.com/liuerlengzi/daydayup.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 终极退堂鼓选手，吉他大帝杨双树的首席大弟子，目前正在学指弹，花二百买了本儿书，先写这么多，日后如果脑瘫严重了再加名头
 这是我学习开的专栏，先学习积累，专栏样子是真的丑
 
 ### 我是干嘛滴
 
 可能是世界上想法最多，而又最无能的人，日常想做点事，但是实际上却有鲜有行动的人，我这么拉胯，靠每天麻醉自己度日
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**我想干嘛**
+我也不知道自己想干什么，在干什么，反正就先这么设置，哈哈哈，我得慢慢儿学习，人不能停止学习，不管学啥
 
-1. Numbered
-2. List
+学啥也不重要，但是不能停
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuerlengzi/daydayup.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#######这是个测试
+井号越多，字体越小，哈哈哈
