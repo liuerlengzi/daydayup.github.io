@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到刘伟的异想世界，终极退堂鼓选手，吉他大帝杨双树的首席大弟子，目前正在向着先写这么多，日后如果脑瘫严重了再加名头
 
 You can use the [editor on GitHub](https://github.com/liuerlengzi/daydayup.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
