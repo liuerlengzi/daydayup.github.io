@@ -1,8 +1,8 @@
-## 欢迎来到刘伟的异想世界，终极退堂鼓选手，吉他大帝杨双树的首席大弟子，目前正在向着先写这么多，日后如果脑瘫严重了再加名头
+## 欢迎来到刘伟的异想世界
 
 You can use the [editor on GitHub](https://github.com/liuerlengzi/daydayup.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+终极退堂鼓选手，吉他大帝杨双树的首席大弟子，目前正在学指弹，花二百买了本儿书，先写这么多，日后如果脑瘫严重了再加名头
+这是我学习开的专栏，先学习积累，专栏样子是真的丑
 
 ### 我是干嘛滴
 
